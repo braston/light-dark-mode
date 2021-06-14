@@ -12,3 +12,4 @@
 -  Use local storage to store dark/light mode setting
 
 See it live here: 
+https://braston.github.io/light-dark-mode/
